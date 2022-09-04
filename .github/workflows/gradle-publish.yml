@@ -2,7 +2,7 @@ env:
   S3_BUCKET_NAME: demobukkit
   PROJECT_NAME: RecommendCinema
   CODE_DEPLOY_APP_NAME: RecommendCinema
-  CODE_DEPLOY_GROUP_NAME: RecommendCinemaGroup
+  CODE_DEPLOY_GROUP_NAME: RC-group
 
 name: deploy java with gradle
 
